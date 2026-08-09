@@ -1,0 +1,11 @@
+{
+  "name": "sementinha-site-static",
+  "version": "4.0.0",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "build": "node scripts/verify-static.mjs"
+  }
+}
